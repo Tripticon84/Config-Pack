@@ -17,7 +17,6 @@
 - 1v1 config
 - 1v10 bot config
 - Falolout's COMPREHENSIVE PRACTICE
-- 
 
 # Instalation Instructions
 
@@ -33,4 +32,4 @@ Open console by pressing ` (Tilde)
 type in console
 >exec autoexec
 
-
+<br> Enjoy ! </br>
