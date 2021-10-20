@@ -1,3 +1,4 @@
+
 <h1 align="center">
     <br>
     Tripticon84's Config Pack
@@ -6,7 +7,7 @@
 <h4 align="center">A CS:GO config pack made by Tripticon84.</h4>
 
 ---
-# Fantastic Tripticon84's Config Pack
+# Tripticon84's Config Pack
 
 ## Includes:
 - Tripticon84's Autoexec
@@ -18,18 +19,46 @@
 - 1v10 bot config
 - Falolout's COMPREHENSIVE PRACTICE
 
+
 # Instalation Instructions
 
 Drag all files to:
-> C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
 
-Add +exec autoexec.cfg to launch options in steam/csgo/properties/launch options ( Optional but HIGHLY recommended)
+    C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
+
+Add `+exec autoexec.cfg` to launch options in `steam/csgo/properties/launch` options ( Optional but HIGHLY recommended)
 
 Open CSGO if not already
 
 Open console by pressing ` (Tilde)
 
-type in console
->exec autoexec
+type in console:
+
+    exec autoexec
 
 <br> Enjoy ! </br>
+
+
+# Personal Information
+
+**[Personals Settings for CS:GO](https://settings.gg/Tripticon84)**
+
+**PC Configuration:**
+- i7-8700K CPU OC@ 4.40GHz
+- Z370 KRAIT GAMING (MS-7B46)
+- 16 GB DDR4
+- NVIDIA GeForce GTX 1070 OC 8 Go
+
+**Screen:**
+Odyssey G7 2K @ 240 Hz
+U28E590 4K @ 60hz
+
+**Gears:**
+- SteelSeries Arctic 9 Wireless
+- SteelSeries Rival 600 
+- SteelSeries Apex 150 Gaming Keyboard
+- SteelSeries QCK HEAVY XXL Mousepad
+
+
+
+
