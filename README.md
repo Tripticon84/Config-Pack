@@ -15,7 +15,6 @@
 - Tripticon84's Practice Config
 - Tripticon84's Hide and seek Config
 - Tripticon84's BHOP Config
-- Falolout's COMPREHENSIVE PRACTICE SCRIPT
 - Advanced Surf Config made by Snake1001.
 
 # Instalation Instructions
