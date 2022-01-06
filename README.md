@@ -48,15 +48,16 @@ type in console:
 - 16 GB DDR4
 - NVIDIA GeForce GTX 1070 OC 8 Go
 
-**Screen:**
-Odyssey G7 2K @ 240 Hz
-U28E590 4K @ 60hz
+**Screens:**
+- Odyssey G7 2K @ 240 Hz 
+- U28E590 4K @ 60hz
 
 **Gears:**
 - SteelSeries Arctic 9 Wireless
 - SteelSeries Rival 600 
-- SteelSeries Apex 150 Gaming Keyboard
-- SteelSeries QCK HEAVY XXL Mousepad
+- SteelSeries Apex 150 
+- SteelSeries Razer Gigantus V2 XXL
+- Xbox Series X Controller
 
 
 
