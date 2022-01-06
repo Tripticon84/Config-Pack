@@ -14,10 +14,9 @@
 - Practice Config
 - Tripticon84's Hide and seek Config
 - BHOP Config
-- Advanced Surf Config made by Snake1001.
+- Advanced Surf Config
 - 1v1 config
 - 1v10 bot config
-- Falolout's COMPREHENSIVE PRACTICE
 
 
 # Instalation Instructions
