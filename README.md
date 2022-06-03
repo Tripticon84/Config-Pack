@@ -46,7 +46,7 @@ type in console:
 - i7-8700K CPU OC@ 4.40GHz
 - Z370 KRAIT GAMING (MS-7B46)
 - 16 GB DDR4
-- NVIDIA GeForce GTX 1070 OC 8 Go
+- NVIDIA GeForce RTX 3060 Ti OC 8 Go
 
 **Screens:**
 - Odyssey G7 2K @ 240 Hz 
