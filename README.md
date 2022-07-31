@@ -14,10 +14,13 @@
 - Practice Config
 - Tripticon84's Hide and seek Config
 - BHOP Config
-- Advanced Surf Config
+- Surf Config
 - 1v1 config
 - 1v10 bot config
-
+- Radial Quick Inventory only for grenades
+- Text Color mod by [MrMaxim](https://www.youtube.com/c/MrMaxim) translated in french by me
+- [Simple Radar](https://readtldr.gg/simpleradar)
+- [Improved Radio Mod](https://maximhere.me/modifications) By [MrMaxim](https://www.youtube.com/c/MrMaxim)
 
 # Instalation Instructions
 
