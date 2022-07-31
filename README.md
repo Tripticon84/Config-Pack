@@ -56,7 +56,7 @@ type in console:
 - SteelSeries Arctic 9 Wireless
 - SteelSeries Rival 600 
 - SteelSeries Apex 150 
-- SteelSeries Razer Gigantus V2 XXL
+- Razer Gigantus V2 XXL
 - Xbox Series X Controller
 
 
