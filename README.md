@@ -14,10 +14,13 @@
 - Practice Config
 - Tripticon84's Hide and seek Config
 - BHOP Config
-- Advanced Surf Config
+- Surf Config
 - 1v1 config
 - 1v10 bot config
-
+- Radial Quick Inventory only for grenades
+- Text Color mod by [MrMaxim](https://www.youtube.com/c/MrMaxim) translated in french by me
+- [Simple Radar](https://readtldr.gg/simpleradar)
+- [Improved Radio Mod](https://maximhere.me/modifications) By [MrMaxim](https://www.youtube.com/c/MrMaxim)
 
 # Instalation Instructions
 
@@ -56,7 +59,7 @@ type in console:
 - SteelSeries Arctic 9 Wireless
 - SteelSeries Rival 600 
 - SteelSeries Apex 150 
-- SteelSeries Razer Gigantus V2 XXL
+- Razer Gigantus V2 XXL
 - Xbox Series X Controller
 
 
