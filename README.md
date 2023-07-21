@@ -46,10 +46,10 @@ type in console:
 **[Personals Settings for CS:GO](https://settings.gg/Tripticon84)**
 
 **PC Configuration:**
-- i7-8700K CPU OC@ 4.40GHz
+- i7-8700K CPU OC@ 4.30GHz
 - Z370 KRAIT GAMING (MS-7B46)
 - 16 GB DDR4
-- NVIDIA GeForce RTX 3060 Ti OC 8 Go
+- NVIDIA GeForce RTX 3070 8 Go
 
 **Screens:**
 - Odyssey G7 2K @ 240 Hz 
