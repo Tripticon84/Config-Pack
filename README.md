@@ -1,4 +1,4 @@
-## ⚠️ For the new config for CS2 go [here](https://github.com/Tripticon84/CS2-Config-pack) ⚠️
+## ⚠️ For the new config for CS2 go [here](https://github.com/Tripticon84/CS2-Config) ⚠️
 <br />
 <br />
 <br />
