@@ -1,3 +1,10 @@
+## ⚠️ For the new config for CS2 go [here](https://github.com/Tripticon84/CS2-Config-pack) ⚠️
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <h1 align="center">
     <br>
